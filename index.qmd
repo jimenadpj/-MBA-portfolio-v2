@@ -1,0 +1,39 @@
+---
+title: "Home"
+format:
+  html:
+    toc: true
+    number-sections: true
+---
+
+<div style="text-align: center;">
+  <img src="profile.jpg" alt="Jimena Del Pozo photo" width="180" style="border-radius: 50%; margin-bottom: 10px;">
+</div>
+
+# Jimena Del Pozo  
+### MBA Candidate | Healthcare Business Leader | Strategic Innovator
+
+---
+
+## Welcome
+
+Welcome to my professional MBA portfolio. I am a certified dietitian with over ten years of experience managing multidisciplinary healthcare clinics and hospitals in Peru, with deep understang of human health and behaviour. Currently living in Canada, I am pursuing an MBA with a focus on strategy, innovation, and digital transformation, expanding my impact by learning how to scale sustainable wellness solution through business innnovation.
+
+This portfolio showcases my academic journey, full educational background, professional experience, certifications and skills, and projects that reflect my leadership, adaptability, and business insight across cultures.
+
+---
+
+## Mission
+
+My mission is to integrate healthcare and nutrition with businesses through data-driven strategies and innovative tools to improve the quality of patient care, logistics operations, and service delivery. I believe in combining compassion with analytics to develop more people-focused solutions.
+
+---
+
+## Explore My Portfolio
+
+Use the navigation menu above to explore:
+
+- Full resume and certifications
+- Academic and applied business projects
+- Skills in project management, AI, and strategic planning
+- Contact information and links to my professional profiles
